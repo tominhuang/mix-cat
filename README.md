@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Getting Started with Mix Cat
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Other lib stacks/dependecies:
+
+-   react-router
+-   react-table
+-   axios
+-   lodash for debounce
 
 ## Available Scripts
 
