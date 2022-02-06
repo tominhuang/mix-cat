@@ -4,8 +4,6 @@ import axios from 'axios'
 const API_URL = process.env.REACT_APP_API_URL || 'https://api.thecatapi.com/v1/'
 const API_KEY = process.env.REACT_APP_API_KEY || 'YOUR_KEY'
 
-console.log(process.env)
-
 // Add a request interceptor
 axios.interceptors.request.use(
     (config) => {
