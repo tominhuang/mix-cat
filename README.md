@@ -1,5 +1,6 @@
 # Getting Started with Mix Cat
 
+Mix Cat, the source of cats. A site for Cat Breed Search.  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## API
