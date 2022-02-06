@@ -26,20 +26,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     ![mobile](https://user-images.githubusercontent.com/499217/152671992-d35c255a-e6f6-4e04-8441-30d00c9bb5fe.png)
 
 -   Tablet
-    <img src="https://user-images.githubusercontent.com/499217/152672049-35303919-b032-4092-926e-78d916eb9d2b.png" width="400">
+
+    -   <img src="https://user-images.githubusercontent.com/499217/152672049-35303919-b032-4092-926e-78d916eb9d2b.png" width="400">
 
 -   Desktop
-    ![desktop](https://user-images.githubusercontent.com/499217/152672081-e62e0dce-2967-45fb-97f6-84be091deddf.png)
+    -   <img src="https://user-images.githubusercontent.com/499217/152672081-e62e0dce-2967-45fb-97f6-84be091deddf.png" width="400">
 
 #### Search and Sorting
 
--   Mobile  
-    ![mobile_search](https://user-images.githubusercontent.com/499217/152673610-b7cd4304-5e36-46db-845c-309905448c11.png)
+-   Mobile
+    -   <img src="https://user-images.githubusercontent.com/499217/152673610-b7cd4304-5e36-46db-845c-309905448c11.png" width="400">
 
 ### Profile
 
 -   Desktop
-    ![profile_desktop](https://user-images.githubusercontent.com/499217/152672194-9d7fc504-39e6-4a51-80f1-151090efa724.png)
+    -   <img src="https://user-images.githubusercontent.com/499217/152672194-9d7fc504-39e6-4a51-80f1-151090efa724.png" width="400">
 
 ## Available Scripts
 
