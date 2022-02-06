@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## API
+
+-   Cat API: [https://thecatapi.com/](https://thecatapi.com/)
+
 ## Other lib stacks/dependecies
 
 -   react-router
