@@ -99,6 +99,11 @@ function App() {
         }
         setQuerying(true)
         setQ(keyword)
+        window.history.replaceState(
+            null,
+            `Mix Cat: ${keyword}`,
+            `?q=${keyword}`
+        )
         try {
             const { data: response } = await httpClient.get(
                 `breeds/search?q=${keyword}`
