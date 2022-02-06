@@ -3,7 +3,6 @@ body {
 }
 .App {
     text-align: center;
-
     color: white;
 }
 
@@ -69,16 +68,12 @@ a:visited {
     text-decoration: underline;
 }
 
-h2 {
-    margin-bottom: 42px;
-}
-
 .cat_table {
     margin-top: 2em;
 }
 
 .tip {
-    margin-top: 1em;
+    margin-top: 0.2em;
 }
 
 .not_found {

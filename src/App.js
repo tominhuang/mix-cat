@@ -12,7 +12,7 @@ function App() {
             accessor: 'name',
         },
         {
-            Header: 'Life Span (year)',
+            Header: 'Life Span (Year)',
             accessor: 'life_span',
         },
         // {
