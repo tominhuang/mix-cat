@@ -31,6 +31,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 -   Desktop
     ![desktop](https://user-images.githubusercontent.com/499217/152672081-e62e0dce-2967-45fb-97f6-84be091deddf.png)
 
+#### Search and Sorting
+
+-   Mobile
+    <img width="305" alt="Mobile Search & Sorting" src="https://user-images.githubusercontent.com/499217/152673610-b7cd4304-5e36-46db-845c-309905448c11.png">
+
 ### Profile
 
 -   Desktop
