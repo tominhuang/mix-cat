@@ -68,10 +68,12 @@ function Breeds() {
             </section>
             {/* {JSON.stringify(data, null, '\t')} */}
             <section className="json">
+                <h3>Breeds API Results</h3>
                 <JSONPretty id="json-pretty" data={data}></JSONPretty>
+                <hr></hr>
+                <h3>Image API Results</h3>
                 <JSONPretty id="json-pretty" data={image}></JSONPretty>
             </section>
-
             <Footer></Footer>
         </div>
     )

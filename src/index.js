@@ -13,7 +13,6 @@ ReactDOM.render(
                 <Route path="breeds/:breedId" element={<Breeds />}></Route>
             </Routes>
         </BrowserRouter>
-        ,
     </React.StrictMode>,
     document.getElementById('root')
 )
