@@ -23,7 +23,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Homepage
 
 -   Mobile
-    ![mobile](https://user-images.githubusercontent.com/499217/152671992-d35c255a-e6f6-4e04-8441-30d00c9bb5fe.png)
+
+    -   <img src="https://user-images.githubusercontent.com/499217/152671992-d35c255a-e6f6-4e04-8441-30d00c9bb5fe.png" width="400">
 
 -   Tablet
 
