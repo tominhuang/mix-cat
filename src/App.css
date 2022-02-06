@@ -1,38 +1,122 @@
+body {
+    background-color: #282c34;
+}
 .App {
-  text-align: center;
+    text-align: center;
+
+    color: white;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.search_input {
+    width: 80%;
+    height: 26px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.image_desc {
+    display: flex;
+}
+
+.image_desc .image {
+    flex: 1;
+    padding: 0 2em;
+}
+
+.image_desc .image_object {
+    width: 100%;
+}
+
+.image_desc .desc {
+    flex: 3;
+    text-align: left;
+    padding: 30px 6px;
+    width: 100%;
+}
+
+.bread_list {
+    text-align: left;
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.bread {
+    flex: 1;
+}
+
+.main-card__bottom-section {
+    margin: 0 5%;
+}
+
+.main-card__cat-row {
+    display: flex;
+}
+
+.main-card__cat-row-element {
+    flex: 1;
+    margin: 0 4%;
+}
+
+.main-card__cat-row-image {
+    width: 100%;
+    height: 200px;
+    border-radius: 24px;
+    object-fit: cover;
+}
+
+a:link,
+a:visited {
+    color: white;
+    text-decoration: underline;
+}
+
+h2 {
+    margin-bottom: 42px;
+}
+
+.cat_table {
+    margin-top: 2em;
+}
+
+.tip {
+    margin-top: 1em;
+}
+
+.not_found {
+    color: red;
+}
+
+.json {
+    text-align: left;
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.datatable_image img {
+    width: 80px;
 }
 
-.App-link {
-  color: #61dafb;
+footer {
+    margin: 60px auto 0 auto;
+    padding: 60px 30px 10px 30px;
+    width: 80%;
+    background-color: black;
+    border-top-left-radius: 42px;
+    border-top-right-radius: 42px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.footer__divider {
+    border-top: 1px solid gray;
+}
+
+@media only screen and (max-width: 600px) {
+    .main-card__cat-row,
+    .image_desc,
+    .bread_list {
+        display: block;
+    }
 }
