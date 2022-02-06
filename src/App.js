@@ -154,7 +154,7 @@ function App() {
                     className="search_input"
                     onKeyUp={search}
                 ></input>
-                <div className="preference">
+                {/* <div className="preference">
                     Search Image:
                     <input
                         type="checkbox"
@@ -162,7 +162,7 @@ function App() {
                         checked={displayImage}
                     ></input>
                     ({displayImage ? 'on' : 'off'})
-                </div>
+                </div> */}
                 <div className="tip">
                     Keywords: <a href="./?q=longhair">longhair</a>,{' '}
                     <a href="./?q=American">American</a>
