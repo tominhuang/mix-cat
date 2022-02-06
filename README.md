@@ -3,6 +3,10 @@
 Mix Cat, the source of cats. A site for Cat Breed Search.  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo Site
+
+-   Netlify: [https://mixcat.netlify.app/](https://mixcat.netlify.app/)
+
 ## API
 
 -   Cat API: [https://thecatapi.com/](https://thecatapi.com/)
@@ -13,6 +17,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 -   react-table
 -   axios
 -   lodash for debounce
+
+## Screenshots
+### Homepage
+![mobile](https://user-images.githubusercontent.com/499217/152671992-d35c255a-e6f6-4e04-8441-30d00c9bb5fe.png)
+![tablet](https://user-images.githubusercontent.com/499217/152672049-35303919-b032-4092-926e-78d916eb9d2b.png)
+![desktop](https://user-images.githubusercontent.com/499217/152672081-e62e0dce-2967-45fb-97f6-84be091deddf.png)
+
+### Profile
+![profile_desktop](https://user-images.githubusercontent.com/499217/152672194-9d7fc504-39e6-4a51-80f1-151090efa724.png)
+
 
 ## Available Scripts
 
