@@ -11,7 +11,7 @@ function Footer() {
                 >
                     <b>tomin</b>
                 </a>{' '}
-                who accompanies a lovely domestic short-haired mixed cat.
+                who accompanies a lovely mixed cat.
             </div>
         </footer>
     )
